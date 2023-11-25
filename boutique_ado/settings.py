@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = False
 print(DEBUG)
 
-ALLOWED_HOSTS = ['boutique-ado-ec-6052e9fffb35.herokuapp.com',
+ALLOWED_HOSTS = ['boutique-ado-ec-bbd3ab3be3d9.herokuapp.com',
                  os.environ.get('LOCAL_HOST')
                  ]
 
