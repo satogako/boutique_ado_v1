@@ -3,5 +3,6 @@
         "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
-    "terminal.integrated.env.windows": {}
+    "terminal.integrated.env.windows": {},
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
